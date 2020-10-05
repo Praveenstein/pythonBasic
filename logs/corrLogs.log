@@ -1,0 +1,2 @@
+2020-10-05 16:16:48,823 -INFO - autocorrelation.find_autocorrelation- find_autocorrelation.py - find_corr - The autocorrelation for given signal [2.0, 3.0, 6.0, 8.0, 9.0] and lag: 3 is -0.46989247311827953
+2020-10-05 16:17:16,216 -ERROR - autocorrelation.find_autocorrelation- find_autocorrelation.py - find_corr - K takes value between 1 and N-2
